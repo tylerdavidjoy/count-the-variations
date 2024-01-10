@@ -1,0 +1,15 @@
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\count-the-variations.exe
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\count-the-variations.deps.json
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\count-the-variations.runtimeconfig.json
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\count-the-variations.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\count-the-variations.dll
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\count-the-variations.pdb
+C:\Users\Tyler\Desktop\count-the-variations\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.csproj.CopyComplete
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.dll
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.pdb
+C:\Users\Tyler\Desktop\count-the-variations\obj\Debug\netcoreapp3.1\count-the-variations.genruntimeconfig.cache
